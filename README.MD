@@ -27,7 +27,7 @@ CSS
 
 JavaScript
 
-Estructura del Proyecto
+--Estructura del Proyecto
 
 TO-DO/
 │
